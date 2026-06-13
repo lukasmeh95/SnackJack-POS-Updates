@@ -1,7 +1,8 @@
 {
-  "version": "2.9.0",
-  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.9.0/SnackJack_POS.exe",
+  "version": "2.10.0",
+  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.10.0/SnackJack_POS.exe",
   "changelog": [
-    "Aktuelle Version"
+    "Teilzahlung hinzugefügt",
+    "kleine Designanpassungen"
   ]
 }
