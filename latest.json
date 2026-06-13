@@ -1,8 +1,9 @@
 {
-  "version": "2.10.2",
-  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.10.2/SnackJack_POS.exe",
+  "version": "2.11.0",
+  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.11.0/SnackJack_POS.exe",
   "changelog": [
-    "Fehler bei Updates entfernt.",
-    "Verbesserte Touch Bedienung bei Teilzahlung."
+    "Piepserpflicht über Kategorien steuerbar",
+    "🔔 Piepser an/aus in der Artikelverwaltung",
+    "bei Zahlung wird vorher die Piepsernummer abgefragt, wenn nötig"
   ]
 }
