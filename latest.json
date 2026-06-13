@@ -2,7 +2,7 @@
   "version": "2.10.2",
   "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.10.2/SnackJack_POS.exe",
   "changelog": [
-    "Teilzahlung hinzugefügt",
-    "kleine Designanpassungen"
+    "Fehler bei Updates entfernt.",
+    "Verbesserte Touch Bedienung bei Teilzahlung."
   ]
 }
