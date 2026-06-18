@@ -1,9 +1,7 @@
 {
-  "version": "2.11.0",
-  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.11.0/SnackJack_POS.exe",
+  "version": "2.11.1",
+  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v.2.11.1/SnackJack_POS.exe",
   "changelog": [
-    "Piepserpflicht über Kategorien steuerbar",
-    "🔔 Piepser an/aus in der Artikelverwaltung",
-    "bei Zahlung wird vorher die Piepsernummer abgefragt, wenn nötig"
+    "Button „Ohne Piepser fortfahren“ hinzugefügt."
   ]
 }
