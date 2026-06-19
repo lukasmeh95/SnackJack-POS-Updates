@@ -1,17 +1,15 @@
 {
-  "version": "2.12.0",
-  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.12.0/SnackJack_POS.exe",
+  "version": "2.12.3",
+  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.12.3/SnackJack_POS.exe",
   "changelog": [
-    "Menüpunkt Monitoring",
-    "Kundendisplay auf auswählbarem Monitor",
-    "Vollbild-Option",
-    "Live-Warenkorb für Kunden",
-    "Produkt-Thumbnails links",
-    "Add-ons sichtbar",
-    "Gesamtpreis unten",
-    "Willkommensansicht bei leerem Warenkorb",
-    "Autostart-Haken für Kundendisplay",
-    "Monitor/Vollbild/Autostart wird in config.json gespeichert",
-    "Kundendisplay öffnet automatisch beim Kassenstart, wenn aktiviert"
+    "Kundendisplay: Mengenanzeige links neben dem Artikelbild vergrößert",
+    "Kundendisplay: Kompakteres Layout für mehr sichtbare Artikel",
+    "Nach erfolgreicher Zahlung wird automatisch wieder die Kategorie Favoriten geöffnet",
+    "0 % MwSt. aus allen relevanten Anzeigen entfernt",
+    "Artikel können nur noch mit 7 % oder 19 % MwSt. angelegt werden",
+    "Z-Bericht für 80-mm-Bondrucker optimiert",
+    "Steueraufteilung im Z-Bericht kompakter dargestellt",
+    "Beträge und Währungsangaben auf Belegen besser ausgerichtet",
+    "Bonbreite für Kundenbon, Arbeitsbon und Z-Bericht erweitert"
   ]
 }
