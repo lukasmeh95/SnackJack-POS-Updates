@@ -1,7 +1,17 @@
 {
-  "version": "2.11.1",
-  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.11.1/SnackJack_POS.exe",
+  "version": "2.12.0",
+  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.12.0/SnackJack_POS.exe",
   "changelog": [
-    "Button „Ohne Piepser fortfahren“ hinzugefügt."
+    "Menüpunkt Monitoring",
+    "Kundendisplay auf auswählbarem Monitor",
+    "Vollbild-Option",
+    "Live-Warenkorb für Kunden",
+    "Produkt-Thumbnails links",
+    "Add-ons sichtbar",
+    "Gesamtpreis unten",
+    "Willkommensansicht bei leerem Warenkorb",
+    "Autostart-Haken für Kundendisplay",
+    "Monitor/Vollbild/Autostart wird in config.json gespeichert",
+    "Kundendisplay öffnet automatisch beim Kassenstart, wenn aktiviert"
   ]
 }
