@@ -1,15 +1,8 @@
 {
-  "version": "2.12.3",
-  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.12.3/SnackJack_POS.exe",
+  "version": "2.12.5",
+  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.12.5/SnackJack_POS.exe",
   "changelog": [
-    "Kundendisplay: Mengenanzeige links neben dem Artikelbild vergrößert",
-    "Kundendisplay: Kompakteres Layout für mehr sichtbare Artikel",
-    "Nach erfolgreicher Zahlung wird automatisch wieder die Kategorie Favoriten geöffnet",
-    "0 % MwSt. aus allen relevanten Anzeigen entfernt",
-    "Artikel können nur noch mit 7 % oder 19 % MwSt. angelegt werden",
-    "Z-Bericht für 80-mm-Bondrucker optimiert",
-    "Steueraufteilung im Z-Bericht kompakter dargestellt",
-    "Beträge und Währungsangaben auf Belegen besser ausgerichtet",
-    "Bonbreite für Kundenbon, Arbeitsbon und Z-Bericht erweitert"
+    "Fix Z-Berichte",
+    "Touch-Scroll-Schutz eingebaut"
   ]
 }
