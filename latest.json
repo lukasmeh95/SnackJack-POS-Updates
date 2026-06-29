@@ -1,8 +1,12 @@
 {
-  "version": "2.12.5",
-  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.12.5/SnackJack_POS.exe",
+  "version": "2.13.0",
+  "download_url": "https://github.com/lukasmeh95/SnackJack-POS-Updates/releases/download/v2.13.0/SnackJack_POS.exe",
   "changelog": [
-    "Fix Z-Berichte",
-    "Touch-Scroll-Schutz eingebaut"
+    "Warenkorb: Stift-Button entfernt, Positionen werden jetzt direkt über die Warenkorb-Kachel bearbeitet",
+    "Warenkorb: Bemerkungen können über den neuen Positionsdialog bearbeitet werden",
+    "Warenkorb: Add-Ons können nachträglich über die jeweilige Warenkorb-Position gewählt oder geändert werden",
+    "Unterkategorien können eigene Add-Ons erhalten, die für alle Produkte dieser Unterkategorie gelten",
+    "Unterkategorie-Add-Ons können optional direkt beim Antippen eines Produkts abgefragt werden",
+    "Produkt-Add-Ons bleiben weiterhin möglich und werden zusammen mit Unterkategorie-Add-Ons angezeigt"
   ]
 }
